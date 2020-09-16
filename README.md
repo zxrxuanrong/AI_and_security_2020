@@ -37,7 +37,15 @@ https://www.tensorflow.org/
 
 https://www.tensorflow.org/tutorials
 ```
-# 基礎python
+### 基礎python
 ```
 https://github.com/MyFirstSecurity2020/20200820/tree/master/Python
+```
+### data science 資料科學
+```
+
+```
+### machine learning
+```
+
 ```
