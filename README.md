@@ -30,3 +30,10 @@ GAN 對抗式生成網路
 IOT security
 區塊練安全(blockchain security)
 ```
+
+#
+```
+https://www.tensorflow.org/
+
+https://www.tensorflow.org/tutorials
+```
