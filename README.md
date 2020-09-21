@@ -55,7 +55,7 @@ https://github.com/MyFirstSecurity2020/20200825/tree/master/%E6%A9%9F%E5%99%A8%E
 https://www.tensorflow.org/tutorials
 ```
 
-# 本學期IPAS資安證照班
+# 本學期  IPAS  資安證照班
 ```
 崑山傳統:大一入學三個月  讓你考上專業資安證照
 
