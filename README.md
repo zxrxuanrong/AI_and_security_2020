@@ -43,11 +43,11 @@ https://github.com/MyFirstSecurity2020/20200820/tree/master/Python
 ```
 ### data science 資料科學
 ```
-
+https://github.com/MyFirstSecurity2020/20200825/tree/master/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8
 ```
 ### machine learning
 ```
-
+https://github.com/MyFirstSecurity2020/20200825/tree/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92
 ```
 
 
