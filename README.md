@@ -50,6 +50,10 @@ https://github.com/MyFirstSecurity2020/20200825/tree/master/%E8%B3%87%E6%96%99%E
 https://github.com/MyFirstSecurity2020/20200825/tree/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92
 ```
 
+### Deep Learning Tensorflow 2.x
+```
+https://www.tensorflow.org/tutorials
+```
 
 # 本學期IPAS資安證照班
 ```
