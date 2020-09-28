@@ -37,3 +37,29 @@ document.write("型態: " + y.dtype + "<br/>");
 </body>
 </html>
 ```
+
+#
+```
+```
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<meta charset="utf-8"/>
+<title>Ch14_4_1.html</title>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+</head>
+
+
+<body>
+
+
+<script>
+
+</script>
+
+</body>
+</html>
+```
+```
