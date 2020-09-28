@@ -39,7 +39,7 @@ document.write("型態: " + y.dtype + "<br/>");
 ```
 
 #
-```
+
 ```
 <!DOCTYPE html>
 <html>
@@ -61,5 +61,5 @@ document.write("型態: " + y.dtype + "<br/>");
 
 </body>
 </html>
-```
+
 ```
