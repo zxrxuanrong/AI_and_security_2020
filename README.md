@@ -26,7 +26,7 @@ TensorFlow Lite 指南  For Mobile & IoT
   https://github.com/tensorflow/examples/tree/master/lite
   TensorFlow Lite Python classification example with Pi Camera
   https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/raspberry_pi/README.md
-Tensorflow.js
+Tensorflow.js 瀏覽器的人工智慧
 ```
 ```
 摺積神經網路CNN
