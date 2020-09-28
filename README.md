@@ -20,6 +20,12 @@ Aurélien Géron 著 賴屹民 譯
 ```
 # 課程主題
 ```
+Tensorflow
+TensorFlow Lite 指南  For Mobile & IoT
+  https://www.tensorflow.org/lite/guide?hl=zh-tw
+Tensorflow.js
+```
+```
 摺積神經網路CNN
 RNN 自然語言
 GAN 對抗式生成網路
