@@ -23,6 +23,9 @@ Aurélien Géron 著 賴屹民 譯
 Tensorflow
 TensorFlow Lite 指南  For Mobile & IoT
   https://www.tensorflow.org/lite/guide?hl=zh-tw
+  https://github.com/tensorflow/examples/tree/master/lite
+  TensorFlow Lite Python classification example with Pi Camera
+  https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/raspberry_pi/README.md
 Tensorflow.js
 ```
 ```
