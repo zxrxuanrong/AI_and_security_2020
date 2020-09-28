@@ -56,10 +56,21 @@ document.write("型態: " + y.dtype + "<br/>");
 
 
 <script>
-
+把程式放在這裡......
 </script>
 
 </body>
 </html>
 
+```
+```
+const x = tf.scalar(10.5);
+document.write("張量x值: " + x + "<br/>");
+document.write("等級: " + x.rank + "<br/>");
+document.write("形狀: [" + x.shape + "]<br/>");
+document.write("型態: " + x.dtype + "<br/>");
+document.write("----------------------------------------<br/>");
+const y = tf.scalar(10, "int32");
+document.write("張量y值: " + y + "<br/>");
+document.write("型態: " + y.dtype + "<br/>");
 ```
