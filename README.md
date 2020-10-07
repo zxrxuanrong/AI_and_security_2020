@@ -13,7 +13,8 @@ Keras 原創者 François Chollet 著
 https://www.tenlong.com.tw/products/9789863125501?list_name=srh
 ```
 ```
-精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e (Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2/e)
+精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e 
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2/e
 Aurélien Géron 著 賴屹民 譯
 歐萊禮
 2020-04-08
